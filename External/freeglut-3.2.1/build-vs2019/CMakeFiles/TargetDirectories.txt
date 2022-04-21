@@ -1,0 +1,5 @@
+C:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1/build-vs2019/CMakeFiles/freeglut.dir
+C:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1/build-vs2019/CMakeFiles/INSTALL.dir
+C:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1/build-vs2019/CMakeFiles/freeglut_static.dir
+C:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1/build-vs2019/CMakeFiles/ALL_BUILD.dir
+C:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1/build-vs2019/CMakeFiles/ZERO_CHECK.dir

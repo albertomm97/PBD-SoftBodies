@@ -1,0 +1,10 @@
+^C:\ARCHIVES\WORK\UTAD\UTAD-SIM02-RIGIDBODY\EXTERNAL\FREEGLUT-3.2.1\BUILD-VS2019\CMAKEFILES\4224E33C96D0EDBAE997DBC1088DC07D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1 -BC:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1/build-vs2019 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Archives/Work/UTAD/UTAD-SIM02-Rigidbody/External/freeglut-3.2.1/build-vs2019/freeglut.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

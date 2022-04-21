@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Archives\Work\UTAD\UTAD-SIM02-Rigidbody\External\freeglut-3.2.1\build-vs2019\CMakeFiles\4224e33c96d0edbae997dbc1088dc07d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{842B1A08-5166-386F-8FF8-E4AA870A8E45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
